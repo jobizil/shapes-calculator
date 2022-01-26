@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "area": 12,
+        "shape": "rectangle",
+        "dimension": {
+            "a": 3,
+            "b": 4
+        }
+    },
+    {
+        "id": 2,
+        "area": 25,
+        "shape": "square",
+        "dimension": 5
+    }
+]
